@@ -7,3 +7,9 @@ This is my example of the flexbox method, by <a href="http://www.massimoceron.it
 
 <li> simple
 <li> dependency free
+  
+# credits
+
+<li> font by <a href="https://fonts.google.com/" target="_blank">Google Fonts</a>
+<li> image by <a href="https://www.pexels.com/" target="_blank">Pexels</a>  
+ 
