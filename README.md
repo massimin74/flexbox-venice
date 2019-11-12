@@ -18,5 +18,5 @@ This is my example of the flexbox method, by <a href="http://www.massimoceron.it
 
 # screenshot
   
-![screenshot](screenshot.png) 
-![screenshot](screenshot-1.png)
+![screenshot](screenshot-3.png) 
+![screenshot](screenshot-4.png)
