@@ -25,6 +25,6 @@ This is my example of the flexbox method, by <a href="http://www.massimoceron.it
                             	<p>PS: la favicon della gondola e&grave; presa da <a href="https://www.flaticon.com/" target="_blank">flaticon</a>.</p>
                               <p>A <a href="http://ceron.altervista.org/corso-web-2.0/my-site/erika/flexbox-per-casa/index.html" target="_blank">questo </a>link puoi vedere il risultato finale del progetto.</p>
                               
-# screenshot
+# image
   
 ![immagine-di-esempio](1.jpg) 
